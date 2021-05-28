@@ -2,14 +2,15 @@
 Demo Dashboard for In-App Call developed using ReactJS Framework.
 
 There are 3 components for this
-- Website: []()
-- JWT Generator: []()
-- API Server: []()
+- Website: [https://github.com/nexmo-se/in-app-web](https://github.com/nexmo-se/in-app-web)
+- JWT Generator: [https://github.com/nexmo-se/in-app-jwt-generator](https://github.com/nexmo-se/in-app-jwt-generator)
+- API Server: [https://github.com/nexmo-se/in-app-server](https://github.com/nexmo-se/in-app-server)
 
 Please go to respective repository for detailed instructor.
 
 ## Deployment
 You can deploy the web directly using Heroku button.
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nexmo-se/in-app-web)
 
 The script in here doesn't provide production deployment. However, if you want to do production deployment, you can do

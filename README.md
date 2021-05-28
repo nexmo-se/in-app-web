@@ -4,7 +4,7 @@ Demo Dashboard for In-App Call developed using ReactJS Framework.
 There are 3 components for this
 - Website: [https://github.com/nexmo-se/in-app-web](https://github.com/nexmo-se/in-app-web)
 - JWT Generator: [https://github.com/nexmo-se/in-app-jwt-generator](https://github.com/nexmo-se/in-app-jwt-generator)
-- API Server: [https://github.com/nexmo-se/in-app-server](https://github.com/nexmo-se/in-app-server)
+- API Server: [https://github.com/nexmo-se/in-app-web-server](https://github.com/nexmo-se/in-app-web-server)
 
 Please go to respective repository for detailed instructor.
 
